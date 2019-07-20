@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(201, 201, 201) !important;
+}
+
+h1.display-4 {
+    font-weight: bold;
+}
+
+#content-column {
+    border-radius: 4px;
+    background-color: #e0e0e0;
+}
+
+#content-column .jumbotron {
+    background-image: linear-gradient(rgba(255, 255, 255, 0.4), rgba(0, 0, 0, 0.8)),
+        url("./resource/banner-img.jpg");
+    color: #ffffff;
+}
